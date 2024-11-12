@@ -1,2 +1,2 @@
-# SDGP-2nd-Year-Files
-SDGP 2nd Year Files From The University Of Westminster.
+# SDGP-2nd-Year-Research-Files
+SDGP 2nd Year Research Files From The University Of Westminster.
