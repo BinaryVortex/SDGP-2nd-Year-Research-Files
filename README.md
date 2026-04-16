@@ -19,16 +19,6 @@ document findings throughout the research phase of the project.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
-
-/research-papers -\> Collected academic papers and references\
-/literature-review -\> Summaries and analysis of research papers\
-/ideas -\> Brainstorming notes and concept drafts\
-/diagrams -\> Architecture, workflows, and system designs\
-/reports -\> Formal documentation and submissions
-
-------------------------------------------------------------------------
-
 ## 🔍 Research Areas
 
 -   Problem Domain Analysis\
